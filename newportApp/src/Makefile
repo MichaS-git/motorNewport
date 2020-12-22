@@ -51,6 +51,9 @@ Newport_SRCS += devESP300.cc drvESP300.cc
 # SMC100 device driver
 Newport_SRCS += SMC100Driver.cpp
 
+# NSC200 device driver
+Newport_SRCS += NSC200Driver.cpp
+
 # Agilis device drivers
 Newport_SRCS += AG_UC.cpp
 Newport_SRCS += AG_CONEX.cpp
